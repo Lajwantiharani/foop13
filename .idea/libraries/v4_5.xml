@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="v4.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 8.0" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/v4.5.2" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/net6.0" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/MySQL Installer for Windows" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/netstandard2.1" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/netstandard2.0" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/v4.8" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector NET 8.0/Assemblies/net5.0" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files (x86)/MySQL/Connector J 8.0" recursive="false" />
+  </library>
+</component>
